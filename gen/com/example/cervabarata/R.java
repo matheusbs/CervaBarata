@@ -44,6 +44,7 @@ public final class R {
         public static final int latao_layout=0x7f030001;
         public static final int latinha_layout=0x7f030002;
         public static final int piriguete_layout=0x7f030003;
+        public static final int tela_abertura=0x7f030004;
     }
     public static final class menu {
         public static final int main=0x7f070000;
