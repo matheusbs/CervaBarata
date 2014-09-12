@@ -23,15 +23,30 @@ public final class R {
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
+        public static final int icon_latao_tab=0x7f020001;
+        public static final int icon_latinha_tab=0x7f020002;
+        public static final int icon_piriguete_tab=0x7f020003;
+        public static final int lata24=0x7f020004;
+        public static final int lata32=0x7f020005;
+        public static final int lata48=0x7f020006;
+        public static final int latao24=0x7f020007;
+        public static final int latao32=0x7f020008;
+        public static final int latao48=0x7f020009;
+        public static final int piri24=0x7f02000a;
+        public static final int piri32=0x7f02000b;
+        public static final int piri48=0x7f02000c;
     }
     public static final class id {
         public static final int action_settings=0x7f080000;
     }
     public static final class layout {
-        public static final int activity_cerva_barata=0x7f030000;
+        public static final int activity_main=0x7f030000;
+        public static final int latao_layout=0x7f030001;
+        public static final int latinha_layout=0x7f030002;
+        public static final int piriguete_layout=0x7f030003;
     }
     public static final class menu {
-        public static final int cerva_barata=0x7f070000;
+        public static final int main=0x7f070000;
     }
     public static final class string {
         public static final int action_settings=0x7f050002;
